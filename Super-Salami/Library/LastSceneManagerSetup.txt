@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Test.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Maps/Salami-Level.unity
+=======
+- path: Assets/_Scences/Minisalami.unity
+>>>>>>> f42792e0ec53eaaf83f536bbf9ab0fee4b034c7e
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   isLoaded: 1
   isActive: 1

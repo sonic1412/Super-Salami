@@ -4,14 +4,22 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
+<<<<<<< HEAD
   productGUID: d41bc2c47fc33194dad67cd23d1ca9a9
+=======
+  productGUID: 7ce0d2a4ca3f7a446847e332afeb5847
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+<<<<<<< HEAD
   productName: Adventure_Of_Super_Samali
+=======
+  productName: Salami
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -508,14 +516,22 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+<<<<<<< HEAD
   metroPackageName: Adventure_Of_Super_Samali
+=======
+  metroPackageName: Salami
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
+<<<<<<< HEAD
   metroApplicationDescription: Adventure_Of_Super_Samali
+=======
+  metroApplicationDescription: Salami
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -586,12 +602,19 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
+<<<<<<< HEAD
   cloudProjectId: 37c64ae6-9b4a-47e9-919a-f264d5bfc0ac
   projectName: Adventure_Of_Super_Samali
   organizationId: eric-the-miracle-pie
+=======
+  cloudProjectId: 03e0d2fe-26fb-41c9-9200-b55928c17e26
+  projectName: Salami
+  organizationId: alexander-m-pasinski
+>>>>>>> 3712fcd07956965e0e4ded06368afeada490ad52
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
